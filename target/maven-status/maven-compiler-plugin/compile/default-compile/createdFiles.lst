@@ -1,4 +1,9 @@
 com\kinahanj\spring\model\Book.class
+com\kinahanj\spring\controller\BookController.class
 com\kinahanj\spring\config\AppConfig.class
 com\kinahanj\spring\config\WebConfig.class
 com\kinahanj\spring\config\MyWebAppInitialiser.class
+com\kinahanj\spring\dao\BookDAO.class
+com\kinahanj\spring\service\BookServiceImpl.class
+com\kinahanj\spring\service\BookService.class
+com\kinahanj\spring\dao\BookDAOImpl.class
