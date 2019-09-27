@@ -1,0 +1,4 @@
+com\kinahanj\spring\model\Book.class
+com\kinahanj\spring\config\AppConfig.class
+com\kinahanj\spring\config\WebConfig.class
+com\kinahanj\spring\config\MyWebAppInitialiser.class
